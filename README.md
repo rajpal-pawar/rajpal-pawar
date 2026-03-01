@@ -8,7 +8,7 @@
  ## About me?
 
 
-I'm Rajpal Pawar, a B.Tech IT student from India. I’m an INFP-T with a chronic case of curiosity— the kind where I want to learn everything, usually all at once, and preferably while procrastinating on something else. 
+I'm Rajpal Pawar, an IT sophomore from India. I’m an INFP-T with a chronic case of curiosity— the kind where I want to learn everything, usually all at once, and preferably while procrastinating on something else. 
 
 My interests are split into two lanes:
 * **Web Development**: This is my 'build real stuff' side. I love solving real-world problems by turning ideas into functional, clean websites.
