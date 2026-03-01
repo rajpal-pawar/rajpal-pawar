@@ -47,7 +47,7 @@ If I’m not online, I’m likely deep in a rabbit hole of things I probably don
 
 📫 **Let’s connect (unless you're a bot):**
 <p align="left">
-  <a href="https://www.instagram.com/_rajpal.pawar_?igsh=MWMwamVxdTUxanVldw=="><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rajpal-pawar-530682325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_rajpal.pawar_"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:rajpalpawar777@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://rajpal-pawar.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
