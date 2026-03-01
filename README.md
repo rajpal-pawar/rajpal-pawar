@@ -50,6 +50,6 @@ If I’m not online, I’m likely deep in a rabbit hole of things I probably don
   <a href="https://www.instagram.com/_rajpal.pawar_?igsh=MWMwamVxdTUxanVldw=="><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_rajpal.pawar_"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:rajpalpawar777@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://rajpal-pawar.github.io/Portfolio/dis"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://rajpal-pawar.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://discordapp.com/users/wellwhatsoever"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
