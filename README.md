@@ -15,6 +15,7 @@ My interests are split into two lanes:
 * **AI/ML**: This is my 'dreamer' side. I’m fascinated by the futuristic and legit techy stuff. I’m nowhere near building that yet, but I’m definitely chasing it. 
 
 I’d genuinely spend a whole day fixing a detail so minute that no one will notice, literally.
+
 ---
 
 ### 🛠 My Toolkit
