@@ -1,14 +1,7 @@
-<div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=505050&height=300&section=header&text=Rajpal%20Pawar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20|%20AI-ML%20&%20AI%20Enthusiast&descAlignY=51&descAlign=62" alt="Hatim Malak Header" width="100%"/>
+<p align="center">
+  <img src="https://media1.tenor.com/m/uiwcuI56hZsAAAAC/monke.gif" width=70% alt="Hiro Hamada" >
 
-  
-
-  <h3>
-    MERN Stack Developer <br/>
-    Sophomore IT | CDGI'28
-  </h3>
-</div>
+</p>
 
  ---
  
