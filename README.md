@@ -1,4 +1,19 @@
-# Hey, I'm Raj! 👋
+<div align="center">
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=505050&height=300&section=header&text=Rajpal%20Pawar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20|%20AI-ML%20&%20AI%20Enthusiast&descAlignY=51&descAlign=62" alt="Hatim Malak Header" width="100%"/>
+
+  
+
+  <h3>
+    MERN Stack Developer <br/>
+    Sophomore IT | CDGI'28
+  </h3>
+</div>
+
+ ---
+ 
+ ## About me?
+
 
 I'm Rajpal Pawar, a B.Tech IT student from India. I’m an INFP-T with a chronic case of curiosity— the kind where I want to learn everything, usually all at once, and preferably while procrastinating on something else. 
 
