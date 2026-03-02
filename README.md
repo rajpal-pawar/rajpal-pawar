@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/uiwcuI56hZsAAAAC/monke.gif" width=70% alt="Hiro Hamada" >
+  <img src="https://media1.tenor.com/m/uiwcuI56hZsAAAAC/monke.gif" height=250 width=1000 alt="Hiro Hamada" >
 
 </p>
 
