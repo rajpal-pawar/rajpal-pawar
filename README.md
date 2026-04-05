@@ -55,7 +55,7 @@ If I’m not online, I’m likely deep in a rabbit hole of things I probably don
 * **Geopolitics**: Trying to figure out why the world is the way it is (spoiler: it's chaotic).
 * **Music**: Mostly just vibing to songs to ignore the silence.
 * **YouTube**: Professional-grade doom-scrolling, but I call it "research."
-* I occasionally do manual labor in Minecraft also.
+* I occasionally do manual labor in Minecraft and some other games also.
 
 📫 **Let’s connect (unless you're a bot):**
 <p align="left">
