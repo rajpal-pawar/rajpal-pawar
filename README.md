@@ -6,6 +6,7 @@
  ---
  
  ## About me?
+ ![Hackatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajpal-pawar&api_domain=hackatime.hackclub.com&layout=compact&theme=dark)
 
 
 I'm Rajpal Pawar, an IT sophomore from India. I’m an INFP-T with a chronic case of curiosity— the kind where I want to learn everything, usually all at once, and preferably while procrastinating on something else. 
