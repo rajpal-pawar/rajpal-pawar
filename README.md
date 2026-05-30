@@ -1,14 +1,10 @@
 <p align="center">
   <img src="hiro banner.jpeg" alt="Hiro Hamada" >
-
 </p>
 
  ---
  
  ## About me?
-![Hackatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajpal-pawar&api_domain=waka.hackclub.com&layout=compact&theme=dark)
-
-
 I'm Rajpal Pawar, an IT sophomore from India. I’m an INFP-T with a chronic case of curiosity— the kind where I want to learn everything, usually all at once, and preferably while procrastinating on something else. 
 
 My interests are split into two lanes:
@@ -37,7 +33,6 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 * **Crumbs**: A semantic search engine. (launching soon)
 * **Daily Doodh**: A milk delivery tracker. It was "vibe coded," but it actually works. [Live Preview](https://monthly-milk-tracker.vercel.app/)
 
-
 ---
 
 ### 📈 My GitHub Stats
@@ -48,6 +43,7 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpal-pawar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
+#### 📊 Hackatime Telemetry
 ---
 
 ### 💡 My "I-want-to-know-it-all" Phase
