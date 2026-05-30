@@ -1,0 +1,28 @@
+name: WakaTime Readme Optimization
+
+on:
+  schedule:
+    # Runs automatically at midnight UTC every single day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Forces a manual run button to appear in your UI
+
+jobs:
+  update-readme:
+    name: Fetch and Commit Telemetry
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Execute Profile Update
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: "https://waka.hackclub.com/api/v1"
+          REPOSITORY: "${{ github.repository }}"
+          SECTION_NAME: "waka"
+          TIME_RANGE: "all_time"
+          SHOW_TITLE: true
+          SHOW_PROJECTS: true
+          SHOW_TIME: true
+          SHOW_LINES_OF_CODE: false
