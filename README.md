@@ -36,16 +36,9 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 ---
 
 ### 📈 My GitHub Stats
-<div align=center>
 
+[![GitHub Streak](https://github-readme-streak-stats-lac-tau.vercel.app?user=rajpal-pawar&theme=date-night&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=rajpal-pawar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=rajpal-pawar&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpal-pawar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
 
 #### 📊 Hackatime Telemetry
 
