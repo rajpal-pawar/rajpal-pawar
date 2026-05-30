@@ -48,6 +48,14 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 </div>
 
 #### 📊 Hackatime Telemetry
+
+
+![[{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}](https://github-readme-stats.hackclub.dev/api/wakatime?username=32398&api_domain=hackatime.hackclub.com&theme=date_night&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://github-readme-stats.hackclub.dev/api/wakatime?username=32398&api_domain=hackatime.hackclub.com&theme=date_night&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+
+[![wakatime](https://wakatime.com/badge/user/4b727e07-f38b-42cf-88da-0833942977b8.svg)](https://wakatime.com/@4b727e07-f38b-42cf-88da-0833942977b8)
+
+
 ---
 
 ### 💡 My "I-want-to-know-it-all" Phase
