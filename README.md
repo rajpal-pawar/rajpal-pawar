@@ -31,7 +31,6 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 
 ### 🚀 Projects
 * **Crumbs**: A semantic search engine. (launching soon)
-* **Daily Doodh**: A milk delivery tracker. It was "vibe coded," but it actually works. [Live Preview](https://monthly-milk-tracker.vercel.app/)
 
 ---
 
@@ -40,10 +39,7 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 [![GitHub Streak](https://github-readme-streak-stats-lac-tau.vercel.app?user=rajpal-pawar&theme=date-night&date_format=j%20M%5B%20Y%5D&card_width=500&v=99)](https://git.io/streak-stats)
 
 
-#### 📊 Hackatime Telemetry
 
-
-![[{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}](https://github-readme-stats.hackclub.dev/api/wakatime?username=32398&api_domain=hackatime.hackclub.com&theme=date_night&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://github-readme-stats.hackclub.dev/api/wakatime?username=32398&api_domain=hackatime.hackclub.com&theme=date_night&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 
 [![wakatime](https://wakatime.com/badge/user/4b727e07-f38b-42cf-88da-0833942977b8.svg)](https://wakatime.com/@4b727e07-f38b-42cf-88da-0833942977b8)
@@ -51,13 +47,7 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 
 ---
 
-### 💡 My "I-want-to-know-it-all" Phase
-If I’m not online, I’m likely deep in a rabbit hole of things I probably don't *need* to know, but absolutely *have* to understand. My current personality consists of:
-* **Sketching**: Trying to put thoughts on paper, often with mixed results.
-* **Geopolitics**: Trying to figure out why the world is the way it is (spoiler: it's chaotic).
-* **Music**: Mostly just vibing to songs to ignore the silence.
-* **YouTube**: Professional-grade doom-scrolling, but I call it "research."
-* I occasionally do manual labor in Minecraft and some other games also.
+
 
 📫 **Let’s connect (unless you're a bot):**
 <p align="left">
