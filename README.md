@@ -34,20 +34,6 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 
 ---
 
-### 📈 My GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats-lac-tau.vercel.app?user=rajpal-pawar&theme=date-night&date_format=j%20M%5B%20Y%5D&card_width=500&v=99)](https://git.io/streak-stats)
-
-
-
-<div align="center">
-  <img src="./profile/streak.svg" alt="Streak" /><br/><br/>
-  <img src="./profile/stats.svg" alt="Stats" /><br/><br/>
-  <img src="./profile/top-langs.svg" alt="Languages" />
-</div>
-
-
-
 
 
 [![wakatime](https://wakatime.com/badge/user/4b727e07-f38b-42cf-88da-0833942977b8.svg)](https://wakatime.com/@4b727e07-f38b-42cf-88da-0833942977b8)
