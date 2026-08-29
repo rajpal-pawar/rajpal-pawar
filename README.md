@@ -30,7 +30,7 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 ---
 
 ### 🚀 Projects
-* **Crumbs**: A semantic search engine. [Check out](https://github.com/rajpal-pawar/Crumbs)
+* **Crumbs**: A fully local, semantic search engine. [Check out](https://github.com/rajpal-pawar/Crumbs)
 
 ---
 
