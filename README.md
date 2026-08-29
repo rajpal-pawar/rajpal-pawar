@@ -36,11 +36,6 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 
 
 
-[![wakatime](https://wakatime.com/badge/user/4b727e07-f38b-42cf-88da-0833942977b8.svg)](https://wakatime.com/@4b727e07-f38b-42cf-88da-0833942977b8)
-
-
----
-
 
 
 📫 **Let’s connect (unless you're a bot):**
