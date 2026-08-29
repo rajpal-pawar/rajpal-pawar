@@ -1,0 +1,47 @@
+name: Compile Profile Visuals
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically once every 24 hours at midnight UTC
+  workflow_dispatch: # Allows manual one-click trigger
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats Card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: "user=rajpal-pawar&theme=dark&hide_border=false"
+          path: "profile/streak.svg"
+          token: ${{ secrets.REPO_PAT }}
+
+      - name: Generate Core Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=rajpal-pawar&theme=dark&show_icons=true&include_all_commits=true&count_private=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=rajpal-pawar&theme=dark&layout=compact&include_all_commits=true&count_private=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Static SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@users.noreply.github.com"
+          mkdir -p profile
+          git add profile/*.svg
+          git commit -m "chore: refresh profile telemetry cards" || exit 0
+          git push
