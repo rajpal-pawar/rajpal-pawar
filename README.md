@@ -35,6 +35,9 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 ---
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=rajpal-pawar&style=flat-square&color=8957e5&label=Profile%20Views)
+
+
 
 
 
