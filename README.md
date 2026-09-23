@@ -44,7 +44,7 @@ I’d genuinely spend a whole day fixing a detail so minute that no one will not
 📫 **Let’s connect (unless you're a bot):**
 <p align="left">
   <a href="https://www.instagram.com/_rajpal.pawar_"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:rajpalpawar777@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contact.rajpalpawar@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://rajpal-pawar.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://discordapp.com/users/wellwhatsoever"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
